@@ -1,4 +1,4 @@
-# Implementation of transformer
+# Implementation of the Transformer architecture
 
 This is an implementation of the transformer architecture from scratch.
 I use pytorch to be able to run on the gpu but the transformer logic including the
